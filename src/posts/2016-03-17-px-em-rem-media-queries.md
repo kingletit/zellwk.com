@@ -178,7 +178,7 @@ Once again, move on to our final experiment to see if anything unexpected comes 
 
 Well, it'll be awesome if all users exhibit this behavior because we don't have to do this experiment! :)
 
-Unfortunately, there's no data to proof that users don't change their browser's `font-size`s, so **it's still our duty as developers to bake the flexibility into our websites.**
+Unfortunately, there's no data to prove that users don't change their browser's `font-size`s, so **it's still our duty as developers to bake the flexibility into our websites.**
 
 In this experiment, I enlarged the default `font-size` of the four browsers I tested with in the following way (incase you wanted to follow along):
 
@@ -186,7 +186,7 @@ In this experiment, I enlarged the default `font-size` of the four browsers I te
 - **Firefox:** Go to `preferences`, `content`, `fonts and colors`.
 - **Internet Explorer:** Click on `page`, then `text-size`
 
-The only browser I couldn't figure out where to set the font-size was **Safari**. So I used a proxy instead. I change the settings such that the smallest font-size is larger than 16px. To do so, go to `preferences`, `advanced`, `acessibility`.
+The only browser I couldn't figure out where to set the font-size was **Safari**. So I used a proxy instead. I changed the settings such that the smallest font-size is larger than 16px. To do so, go to `preferences`, `advanced`, `acessibility`.
 
 **This was the only test that all browsers behaved in the same way:**
 
